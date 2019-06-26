@@ -4,9 +4,11 @@ packages:
   aria2:
     dependency: "direct dev"
     description:
-      path: "C:\\project\\aria2\\aria2"
-      relative: false
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: ba37e3c035b37d4bf34d3cbb3b34a555234cb9a2
+      url: "https://github.com/qugang/flutter-aria2.git"
+    source: git
     version: "0.0.1"
   async:
     dependency: transitive
